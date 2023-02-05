@@ -113,7 +113,7 @@ promptQuestions();
 function createTeam() {
   console.log("new staff", staffMemberData);
   fs.writeFileSync(
-    "./output/index.html",
+    "./dist/Teammates.html",
     generateTeam(staffMemberData),
     "utf-8"
   );
