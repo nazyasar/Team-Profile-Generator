@@ -1,4 +1,4 @@
-# Team-Profile-Generator
+# Team Profile Generator
 
 ## Overview
 
@@ -13,13 +13,20 @@ The HTML page is updated each time the application is run, allowing for easy add
 
 ## Requirements
 
-Node.js
+- Node.js
+- Jest
+- JavaScript
+- HTML
+- CSS
 
 ## Usage
 
 Clone the repository to your local machine
 Navigate to the root directory of the repository in your terminal
 Run npm install to install all dependencies
-Run node app.js to start the application
+Run node index.js to start the application
 Follow the prompts to input information for each team member
-The generated HTML page can be found in the output directory
+The generated HTML page can be found in the dist directory
+
+## Video Recording
+[team-profile-generator.webm](https://user-images.githubusercontent.com/55256787/217115998-ce5e76b8-e38a-4c56-ac02-aa77e259d50c.webm)
