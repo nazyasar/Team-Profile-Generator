@@ -6,10 +6,10 @@ The Team Profile Generator is a command-line application that dynamically genera
 
 ## Features
 
-User can input any number of team members
-User is prompted for each member's information including name, email, and role
-The generated HTML page displays a nicely formatted team roster
-The HTML page is updated each time the application is run, allowing for easy addition or removal of team members
+- User can input any number of team members
+- User is prompted for each member's information including name, email, and role
+- The generated HTML page displays a nicely formatted team roster
+- The HTML page is updated each time the application is run, allowing for easy addition or removal of team members
 
 ## Requirements
 
